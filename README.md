@@ -49,4 +49,8 @@ You can connect with me via these platforms:
   * **LinkedIn:** [https://www.linkedin.com/in/shushanth-b-s/](https://www.linkedin.com/in/shushanth-b-s/)
   * **GitHub:** [https://github.com/shushanth2003](https://github.com/shushanth2003)
 
+### 🛂 Project URL
+!(https://roadmap.sh/projects/single-page-cv)
+
 -----
+
